@@ -53,10 +53,4 @@ export const Todo = ({ todos, completeTodo, removeTodo, updateTodo }) => {
       // </Fragment>
     );
   });
-
-  /* return (
-    <div>
-      { if(todos !== null) {todos[0].text} } 
-    </div>
-  ); */
 };

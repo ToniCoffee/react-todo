@@ -1,11 +1,12 @@
 {
-  "name": "react",
+  "name": "to-do-app",
   "version": "0.0.0",
   "private": true,
+	"keywords": ["react", "todo", "app"],
   "dependencies": {
-    "react": "^17.0.0",
-    "react-dom": "^17.0.0",
-    "react-icons": "^4.2.0"
+    "react": "17.0.0",
+    "react-dom": "17.0.0",
+    "react-icons": "4.2.0"
   },
   "scripts": {
     "start": "react-scripts start",

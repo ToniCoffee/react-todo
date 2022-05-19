@@ -13,7 +13,6 @@ export const TodoList = props => {
     const newTodos = [todo, ...todos];
 
     setTodos(newTodos);
-    console.log(todo, ...todos);
   };
 
   const updateTodo = (todoId, newValue) => {
